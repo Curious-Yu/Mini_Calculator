@@ -1,0 +1,52 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.pageTitle {
+    text-align: center;
+}
+
+.calculator1 {
+    text-align: center;
+}
+
+.table1 {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.table1 td {
+    padding: 1vw;
+    font-size: 3vw;
+}
+
+table {
+    width: fit-content;
+    height: auto;
+    min-width: 250px;
+    min-height: 350px;
+    padding: 1vw;
+    border-radius: 1vw;
+    background-color: blanchedalmond;
+}
+
+.btn input {
+    background-color: rgba(255, 99, 71, 1);
+    font-size: 3vw;
+    width: 6vw;
+    height: 6vw;
+    border-radius: 50%;
+    padding: 1vw;
+} 
+
+#output {
+    background-color: rgba(255, 99, 71, 1);
+    font-size: 3vw;
+    width: auto;
+    height: 6vw;
+    border-radius: 2vw;
+}
+
